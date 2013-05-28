@@ -1,0 +1,38 @@
+{
+    "name": "colorAlpha",
+    "title": "colorAlpha",
+    "description": "A jQuery plugin to set the alpha channel of a CSS color or background-color.",
+    "keywords": [
+        "responsive",
+        "design",
+        "web",
+        "rwd",
+        "iframe",
+        "rframe"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Adam Merrifield",
+        "url": "https://github.com/seyDoggy/colorAlpha/blob/master/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Adam Merrifield",
+            "email": "macagp@gmail.com",
+            "url": "http://seydesign.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/seyDoggy/colorAlpha/blob/master/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/seyDoggy/colorAlpha/issues",
+    "homepage": "https://github.com/seyDoggy/colorAlpha",
+    "docs": "https://github.com/seyDoggy/colorAlpha",
+    "download": "https://github.com/seyDoggy/colorAlpha/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
