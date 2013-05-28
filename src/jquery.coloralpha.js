@@ -10,7 +10,7 @@
 	'use strict';
 
 	var pluginName = 'colorAlpha',
-		pluginVersion = '1.0.0';
+		pluginVersion = '1.0.1';
 
 	$.fn.colorAlpha = function(options) {
 
